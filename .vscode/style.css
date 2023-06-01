@@ -1,0 +1,6 @@
+.project-listing {
+    display: flex;
+    justify-content: middle;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
